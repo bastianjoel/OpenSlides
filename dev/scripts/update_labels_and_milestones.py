@@ -13,6 +13,7 @@ repos = [
     "openslides-media-service",
     "openslides-meta",
     "openslides-proxy",
+    "openslides-projector-service",
     "openslides-search-service",
     "openslides-vote-service",
     "vote-decrypt",
@@ -173,7 +174,7 @@ labels = {
             "description": "This issue involves apple devices",
         },
         {
-            "name": "tablet", 
+            "name": "tablet",
             "color": "fc3b8f",
             "description": "size <=960px; >700px",
         },
